@@ -110,10 +110,11 @@ fun_fact: "Designed the official logo of Xplor XR Club — my art lives on 🎨"
 
 ---
 
-## ✍️ Dev Quote
+## 💬 Quote I Build By
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+  <i><b>"Talk is cheap. Show me the code."</b></i>
+  <br/>— Linus Torvalds
 </div>
 
 ---
