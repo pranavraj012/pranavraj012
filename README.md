@@ -81,18 +81,28 @@ fun_fact: "Designed the official logo of Xplor XR Club — my art lives on 🎨"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavraj012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavraj012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-  <br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranavraj012&theme=tokyo-night&hide_border=true&bg_color=1A1B27&area=true" alt="activity graph" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranavraj012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranavraj012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Project Showcase
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavraj012&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
+  <a href="https://github.com/pranavraj012/multimodal-rag">
+    <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pranavraj012&repo=multimodal-rag&theme=tokyonight&hide_border=true" alt="multimodal-rag" />
+  </a>
+  <a href="https://github.com/pranavraj012/multi-agent-content-engine">
+    <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pranavraj012&repo=multi-agent-content-engine&theme=tokyonight&hide_border=true" alt="multi-agent-content-engine" />
+  </a>
+  <br/>
+  <a href="https://github.com/pranavraj012/gesture-mouse">
+    <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pranavraj012&repo=gesture-mouse&theme=tokyonight&hide_border=true" alt="gesture-mouse" />
+  </a>
+  <a href="https://github.com/pranavraj012/squat-analyzer">
+    <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pranavraj012&repo=squat-analyzer&theme=tokyonight&hide_border=true" alt="squat-analyzer" />
+  </a>
 </div>
 
 ---
