@@ -1,29 +1,123 @@
----
+<!-- ================= HEADER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:36BCF7,100:00d2ff&height=220&section=header&text=Bala%20Pranav%20Raj&fontSize=45&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20%E2%9A%A1%20%20Agentic%20AI%20%E2%9A%A1%20Computer%20Vision&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" alt="header" />
 
-# Hello, I'm Pranav!
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=pranavraj012&color=7F00FF&style=for-the-badge&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=pranavraj012&color=7F00FF&style=for-the-badge&label=PROFILE+VIEWS" alt="views" />
+  </a>
+  <a href="https://github.com/pranavraj012?tab=followers">
+    <img src="https://img.shields.io/github/followers/pranavraj012?style=for-the-badge&color=36BCF7&label=FOLLOWERS" alt="followers" />
+  </a>
+  <a href="mailto:balapranav006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-balapranav006%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://linkedin.com/in/bala-pranav-raj">
+    <img src="https://img.shields.io/badge/LinkedIn-bala--pranav--raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+</div>
 
-👋 Welcome to my GitHub! I’m an undergraduate Computer Science student (Class of 2027) with a strong interest in AI agents, agentic workflows, and full-stack web development.
-
-## About Me
-
-- 🎓 Computer Science undergrad, graduating in 2027.
-- 🤖 Enthusiastic about AI agents and agentic workflows—exploring how autonomous systems can plan, reason, and collaborate to solve real-world problems.
-- 🌐 Actively building web apps using React.js, Node.js, Express, MongoDB, and Supabase.
-- 📚 Always learning, experimenting, and building new things in tech.
-
-## What I’m Up To
-
-- Developing full-stack applications with React.js (frontend), Node.js/Express (backend), and databases like MongoDB and Supabase.
-- Exploring the latest in AI, especially agentic workflows and how they can automate and orchestrate complex tasks.
-- Working on personal projects and expanding my knowledge in both AI and web development.
-
-## Get in Touch
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bala-pranav-raj/) – Let’s connect!
-- 📧 [balapranav006@gmail.com](mailto:balapranav006@gmail.com) – Open to collaboration and conversation.
-
-## Let’s Connect!
-
-Always up for chatting about tech, sharing ideas, or collaborating on interesting projects. Feel free to reach out!
+<!-- ================= TYPING ================= -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CSE+'27+%40+VNRVJIET+%7C+CGPA+9.44;Building+Agentic+AI+Pipelines+%F0%9F%A4%96;Winner+%E2%80%94+Webathon+2K26+%F0%9F%8F%86;Winner+%E2%80%94+Designathon+2K25+(Cybersecurity)+%F0%9F%9B%A1%EF%B8%8F;Top+0.0125%25+%E2%80%94+LangFlow+Prompt+Engineering+Challenge;Ex-Graduate+Engineer+Intern+%40+Invesco" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
+
+## 🧑‍🚀 About Me
+
+```yaml
+name: Bala Pranav Raj
+role: Full-Stack & AI Engineer (in the making)
+education:
+  - B.Tech CSE @ VNRVJIET, Hyderabad (2023 - 2027)
+  - CGPA 9.44/10.0
+currently:
+  - building multimodal RAG & multi-agent systems
+  - contributing to real products across fintech & AI startups
+interests: [Agentic AI, LLMs, Computer Vision, Scalable Backends]
+fun_fact: "Designed the official logo of Xplor XR Club — my art lives on 🎨"
+```
+
+- 🏆 **Winner** — Webathon 2K26 (GitHub OAuth app + VS Code extension for conversational codebase insights)
+- 🥇 **1st Place, Cybersecurity Domain** — Designathon 2K25 (50+ teams) for an AI Fake News Detector
+- 🥈 **Runner-Up** — LangFlow Prompt Engineering Challenge 2024, **top 0.0125% of 16,000 participants** (₹40,000 prize)
+- 💼 4 internships incl. **Invesco** (Graduate Engineer Intern) and **PSNM Innovations** (AI video platform)
+- 🧠 450+ DSA problems solved across LeetCode, CodeChef & Codeforces
+- ⚡ Outside code: President of Gamma Club (research), XR club member, table tennis regular
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,typescript,c,react,nodejs,express,flask,tailwind,mongodb,mysql,git,github,vercel,vscode&perline=8" alt="skills" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="langchain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="langgraph" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="gemini" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="opencv" />
+  <img src="https://img.shields.io/badge/MediaPipe-00A67D?style=flat-square&logo=google&logoColor=white" alt="mediapipe" />
+  <img src="https://img.shields.io/badge/Whisper-000000?style=flat-square&logo=openai&logoColor=white" alt="whisper" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white" alt="chromadb" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavraj012/pranavraj012/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavraj012/pranavraj012/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/pranavraj012/pranavraj012/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavraj012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavraj012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranavraj012&theme=tokyo-night&hide_border=true&bg_color=1A1B27&area=true" alt="activity graph" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavraj012&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🔎 **[Multimodal RAG](https://github.com/pranavraj012/multimodal-rag)** | 8-stage RAG pipeline for lecture videos — ask questions, click the answer, and jump straight to that timestamp | Python, FastAPI, React, ChromaDB, Whisper, OpenCV |
+| 🤖 **[Multi-Agent Content Engine](https://github.com/pranavraj012/multi-agent-content-engine)** | 5-agent pipeline (Research → Writer → Editor → Supervisor → Social); the Supervisor auto-reroutes drafts that score below the quality bar | Python, LangGraph, LangChain, Gemini API |
+| 🛡️ **[Fake News Detector Bot](https://github.com/pranavraj012/fake-news-detector)** | Telegram fact-checking bot — 90% detection accuracy, 30% fewer false positives; won Designathon 2K25 | Python, Telegram API, Gemini API, Web Scraping |
+| 🦵 **[Squat Analyzer](https://github.com/pranavraj012/squat-analyzer)** | Real-time pose detection at ~30 FPS with sub-200ms corrective audio feedback, piloted with a healthcare client | Python, Flask, OpenCV, MediaPipe |
+| 🖱️ **[Gesture Mouse](https://github.com/pranavraj012/gesture-mouse)** | Control your cursor with hand gestures via real-time computer vision | Python, OpenCV, MediaPipe |
+| 🎬 **[Video Gen with Remotion](https://github.com/pranavraj012/video-gen-remotion)** | AI-generated scripts rendered into reel-style educational videos | JavaScript, Remotion |
+
+---
+
+## ✍️ Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:36BCF7,100:7F00FF&height=120&section=footer" alt="footer" />
+</div>
