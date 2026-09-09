@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -12,7 +12,8 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  snake:
+    name: Contribution snake
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake SVGs (light + dark)
@@ -30,3 +31,20 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  summary-cards:
+    name: GitHub stat cards
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate summary cards (tokyonight, IST)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: pranavraj012
+          BRANCH_NAME: main
+          UTC_OFFSET: 5 # IST (+5:30); the action only accepts whole-hour offsets
+          THEME: tokyonight
+          AUTO_PUSH: true
